@@ -1,0 +1,5 @@
+names:
+- balloon
+nc: 1
+train: base_dir/images/train
+val: base_dir/images/validation
